@@ -1,6 +1,6 @@
-# Yxnn_
+# Yxnn_ / Luna
 
-Hey, my name is Yann, i'm 17 and I am a French Developer.
+Hey, my name is Luna, i'm 17 and I am a French Developer.
 
 I love coding Discord.JS bots.
 
